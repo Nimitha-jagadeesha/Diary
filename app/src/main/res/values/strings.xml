@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="datepicker">DatePicker</string>
+    <string name="show">Show</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="nimi">Nimi</string>
+    <string name="wrong_password">Wrong Password</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+</resources>
